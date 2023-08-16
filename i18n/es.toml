@@ -33,3 +33,9 @@ other = "Enviar"
 
 [taxonomyPageList]
 other = "A continuación encontrará las páginas asociadas a “{{ .Title }}”"
+
+[minutesRead]
+other = "minutos de lectura"
+
+[words]
+other = "palabras"
