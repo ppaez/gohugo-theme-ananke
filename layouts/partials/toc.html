@@ -1,0 +1,4 @@
+{{ if and (gt .WordCount 150 ) (.Params.toc) }}
+  <p>Índice de contenido
+  {{.TableOfContents}}
+{{ end }}
